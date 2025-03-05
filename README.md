@@ -18,3 +18,4 @@
 |002|<a href="https://www.acmicpc.net/problem/9012" target="_blank">괄호</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj9012.py" target="_blank">bj9012.py</a>|
 |003|<a href="https://www.acmicpc.net/problem/1158" target="_blank">요세푸스 문제</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1158.py" target="_blank">bj1158.py</a>|
 |004|<a href="https://www.acmicpc.net/problem/2164" target="_blank">카드2</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj2164.py" target="_blank">bj2164.py</a>|
+|005|<a href="https://www.acmicpc.net/problem/10866" target="_blank">덱</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj10866.py" target="_blank">bj10866.py</a>|
