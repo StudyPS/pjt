@@ -19,3 +19,4 @@
 |003|<a href="https://www.acmicpc.net/problem/1158" target="_blank">요세푸스 문제</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1158.py" target="_blank">bj1158.py</a>|
 |004|<a href="https://www.acmicpc.net/problem/2164" target="_blank">카드2</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj2164.py" target="_blank">bj2164.py</a>|
 |005|<a href="https://www.acmicpc.net/problem/10866" target="_blank">덱</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj10866.py" target="_blank">bj10866.py</a>|
+|006|<a href="https://www.acmicpc.net/problem/2346" target="_blank">풍선 터뜨리기</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj2346.py" target="_blank">bj2346.py</a>|
