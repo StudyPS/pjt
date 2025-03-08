@@ -21,3 +21,5 @@
 |005|<a href="https://www.acmicpc.net/problem/10866" target="_blank">덱</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj10866.py" target="_blank">bj10866.py</a>|
 |006|<a href="https://www.acmicpc.net/problem/2346" target="_blank">풍선 터뜨리기</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj2346.py" target="_blank">bj2346.py</a>|
 |007|<a href="https://www.acmicpc.net/problem/1935" target="_blank">후위 표기식2</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1935.py" target="_blank">b1935.py</a>|
+|008|<a href="https://www.acmicpc.net/problem/1966" target="_blank">프린터 큐|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1935.py" target="_blank">b1966.py</a>|
+<!-- |009|<a href="https://www.acmicpc.net/problem/1874" target="_blank">스택 수열</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1935.py" target="_blank">b1874.py</a>| -->
