@@ -23,3 +23,5 @@
 |007|<a href="https://www.acmicpc.net/problem/1935" target="_blank">후위 표기식2</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1935.py" target="_blank">b1935.py</a>|
 |008|<a href="https://www.acmicpc.net/problem/1966" target="_blank">프린터 큐|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1935.py" target="_blank">b1966.py</a>|
 |009|<a href="https://www.acmicpc.net/problem/1874" target="_blank">스택 수열</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure/bj1874.py" target="_blank">b1874.py</a>|
+||자료구조2||
+|001|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj1620.py" target="_blank">bj1620.py</a>|솜
