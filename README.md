@@ -35,9 +35,9 @@
 
 <summary>🔎 문제 목록</summary>
 
-|순번|문제 이름|풀이 링크|
-|:--:|:--:|:--:|
-|000|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj1620.py" target="_blank">bj1620.py</a>|
-|001|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj14425.py" target="_blank">bj14425.py</a>|
+|순번|문제 이름|풀이 링크|😀|
+|:--:|:--:|:--:|:--:|
+|000|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj1620.py" target="_blank">bj1620.py</a>|🥱|
+|001|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj14425.py" target="_blank">bj14425.py</a>|🥱|
 
 </details>
