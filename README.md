@@ -29,7 +29,7 @@
 
 ### 자료구조 2
 
-> 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure)  
+> 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
 
 <details open>
 
