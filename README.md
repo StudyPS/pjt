@@ -42,4 +42,5 @@
 |002|<a href="https://www.acmicpc.net/problem/2075" target="_blank">N번째 큰 수</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj2075.py" target="_blank">bj2075.py</a>|🤔|
 |003|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj4358.py" target="_blank">bj4358.py</a>|😤|
 |004|<a href="https://www.acmicpc.net/problem/11279" target="_blank">최대 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11279.py" target="_blank">bj11279.py</a>|🥱|
+|✨|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj2504.py" target="_blank">bj2504.py</a>|🥱|
 </details>
