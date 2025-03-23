@@ -20,10 +20,14 @@
 
 ### 🏁 2주차  
 - 📌 **자료구조 문제 005 ~ 009번**  
-- 동일한 자료구조 카테고리에서 진행  
+- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure)  
 
 ### 🏁 3주차 
 - 📌 **자료구조 2 문제 000 ~ 004번**  
+- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
+
+### 🏁 4주차 25.03.19~25.03.25 
+- 📌 **자료구조 2 문제 005 ~ 009번**  
 - 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
 
 ---
