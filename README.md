@@ -43,5 +43,6 @@
 |003|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj4358.py" target="_blank">bj4358.py</a>|😤|
 |004|<a href="https://www.acmicpc.net/problem/11279" target="_blank">최대 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11279.py" target="_blank">bj11279.py</a>|🥱|
 |✨|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj2504.py" target="_blank">bj2504.py</a>|🥱|
-|005|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11286.py" target="_blank">bj11286.py</a>|🥱|
+|005|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11286.py" target="_blank">bj11286.py</a>|😤|
+|006|<a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj7662.py" target="_blank">bj7662.py</a>|😡|
 </details>

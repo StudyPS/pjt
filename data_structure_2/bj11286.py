@@ -1,21 +1,15 @@
 import heapq
 import sys
 
-N = int(sys.stdin.readline())
+n = int(input())
+q = []
 
-main_hq = []
-dic: dict[int, list[int]] = {}
-for i in range(N):
-    n = int(sys.stdin.readline())
-    if n == 0:  # 입력이 0 일 경우 pop
-        if len(main_hq) == 0:
+for i in range(n):
+    a = int(sys.stdin.readline().rstrip())
+    if a != 0:
+        heapq.heappush(q, (abs(a), a))
+    else:
+        if not q:
             print(0)
         else:
-            val = heapq.heappop(main_hq)
-            # if p_hq[0] == val
-    elif n != 0:
-        heapq.heappush(main_hq, abs(n))
-        if abs(n) in dic:
-            dic[abs(n)].append(n)
-        else:
-            dic[abs(n)] = [n]
+            print(heapq.heappop(q)[1])
