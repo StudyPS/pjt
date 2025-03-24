@@ -14,21 +14,25 @@
 
 ## 📅 스터디 일정  
 
-### 🏁 1주차 
-- 📌 **자료구조 문제 000 ~ 004번**  
-- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure)  
+### 🏁 5주차 25.03.26~25.04.02 
+- 📌 **tree(트리) 문제 000 ~ 004번**  
+- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/tree)  
 
-### 🏁 2주차  
-- 📌 **자료구조 문제 005 ~ 009번**  
-- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure)  
+### 🏁 4주차 25.03.19~25.03.25 
+- 📌 **자료구조 2 문제 005 ~ 009번**  
+- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
 
 ### 🏁 3주차 
 - 📌 **자료구조 2 문제 000 ~ 004번**  
 - 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
 
-### 🏁 4주차 25.03.19~25.03.25 
-- 📌 **자료구조 2 문제 005 ~ 009번**  
-- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
+### 🏁 2주차  
+- 📌 **자료구조 문제 005 ~ 009번**  
+- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure)  
+
+### 🏁 1주차 
+- 📌 **자료구조 문제 000 ~ 004번**  
+- 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure)  
 
 ---
 
