@@ -47,4 +47,5 @@
 |006|<a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj7662.py" target="_blank">bj7662.py</a>|😡|
 |007|<a href="https://www.acmicpc.net/problem/21939" target="_blank">문제 추천 시스템 v.1</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21939.py" target="_blank">bj21939.py</a>|😡|
 |008|<a href="https://www.acmicpc.net/problem/21942" target="_blank">부품 대여장</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21942.py" target="_blank">bj21942.py</a>|😤|
+|009|<a href="https://www.acmicpc.net/problem/21944" target="_blank">문제 추천 시스템 V.2</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21944.py" target="_blank">bj21944.py</a>|🤮|
 </details>
