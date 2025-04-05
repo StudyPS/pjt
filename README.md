@@ -13,6 +13,7 @@
 |순번|문제 이름|풀이 링크|😀|
 |:--:|:--:|:--:|:--:|
 |000|<a href="https://www.acmicpc.net/problem/6416" target="_blank">트리인가?</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj6416.py" target="_blank">bj6416.py</a>|😤|
+|001|<a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj11725.py" target="_blank">bj11725.py</a>|😀|
 </details>
 
 ### 자료구조 2
