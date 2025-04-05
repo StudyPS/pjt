@@ -2,6 +2,42 @@
 
 - [🔗 스터디 레포](https://github.com/StudyPS)
 
+### 트리
+
+> 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/tree)  
+
+<details open>
+
+<summary>🔎 문제 목록</summary>
+
+|순번|문제 이름|풀이 링크|😀|
+|:--:|:--:|:--:|:--:|
+|000|<a href="https://www.acmicpc.net/problem/6416" target="_blank">트리인가?</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj6416.py" target="_blank">bj6416.py</a>|😤|
+</details>
+
+### 자료구조 2
+
+> 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
+
+<details open>
+
+<summary>🔎 문제 목록</summary>
+
+|순번|문제 이름|풀이 링크|😀|
+|:--:|:--:|:--:|:--:|
+|000|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj1620.py" target="_blank">bj1620.py</a>|🥱|
+|001|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj14425.py" target="_blank">bj14425.py</a>|🥱|
+|002|<a href="https://www.acmicpc.net/problem/2075" target="_blank">N번째 큰 수</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj2075.py" target="_blank">bj2075.py</a>|🤔|
+|003|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj4358.py" target="_blank">bj4358.py</a>|😤|
+|004|<a href="https://www.acmicpc.net/problem/11279" target="_blank">최대 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11279.py" target="_blank">bj11279.py</a>|🥱|
+|✨|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj2504.py" target="_blank">bj2504.py</a>|🥱|
+|005|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11286.py" target="_blank">bj11286.py</a>|😤|
+|006|<a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj7662.py" target="_blank">bj7662.py</a>|😡|
+|007|<a href="https://www.acmicpc.net/problem/21939" target="_blank">문제 추천 시스템 v.1</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21939.py" target="_blank">bj21939.py</a>|😡|
+|008|<a href="https://www.acmicpc.net/problem/21942" target="_blank">부품 대여장</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21942.py" target="_blank">bj21942.py</a>|😤|
+|009|<a href="https://www.acmicpc.net/problem/21944" target="_blank">문제 추천 시스템 V.2</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21944.py" target="_blank">bj21944.py</a>|🤮|
+</details>
+
 ### 자료구조 
 > 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure)  
 
@@ -27,25 +63,3 @@
 
 
 
-### 자료구조 2
-
-> 🔗 [문제 링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/data_structure2)  
-
-<details open>
-
-<summary>🔎 문제 목록</summary>
-
-|순번|문제 이름|풀이 링크|😀|
-|:--:|:--:|:--:|:--:|
-|000|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj1620.py" target="_blank">bj1620.py</a>|🥱|
-|001|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj14425.py" target="_blank">bj14425.py</a>|🥱|
-|002|<a href="https://www.acmicpc.net/problem/2075" target="_blank">N번째 큰 수</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj2075.py" target="_blank">bj2075.py</a>|🤔|
-|003|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj4358.py" target="_blank">bj4358.py</a>|😤|
-|004|<a href="https://www.acmicpc.net/problem/11279" target="_blank">최대 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11279.py" target="_blank">bj11279.py</a>|🥱|
-|✨|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj2504.py" target="_blank">bj2504.py</a>|🥱|
-|005|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj11286.py" target="_blank">bj11286.py</a>|😤|
-|006|<a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj7662.py" target="_blank">bj7662.py</a>|😡|
-|007|<a href="https://www.acmicpc.net/problem/21939" target="_blank">문제 추천 시스템 v.1</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21939.py" target="_blank">bj21939.py</a>|😡|
-|008|<a href="https://www.acmicpc.net/problem/21942" target="_blank">부품 대여장</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21942.py" target="_blank">bj21942.py</a>|😤|
-|009|<a href="https://www.acmicpc.net/problem/21944" target="_blank">문제 추천 시스템 V.2</a>|<a href="https://github.com/StudyPS/pjt/blob/main/data_structure_2/bj21944.py" target="_blank">bj21944.py</a>|🤮|
-</details>
