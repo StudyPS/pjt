@@ -15,6 +15,7 @@
 |000|<a href="https://www.acmicpc.net/problem/6416" target="_blank">트리인가?</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj6416.py" target="_blank">bj6416.py</a>|😤|
 |001|<a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj11725.py" target="_blank">bj11725.py</a>|😀|
 |002|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj14675.py" target="_blank">bj14675.py</a>|😀|
+|003|<a href="https://www.acmicpc.net/problem/1991" target="_blank">트리 순회</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj1991.py" target="_blank">bj1991.py</a>|😀|
 </details>
 
 ### 자료구조 2
