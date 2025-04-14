@@ -16,7 +16,8 @@
 |001|<a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj11725.py" target="_blank">bj11725.py</a>|😀|
 |002|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj14675.py" target="_blank">bj14675.py</a>|😀|
 |003|<a href="https://www.acmicpc.net/problem/1991" target="_blank">트리 순회</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj1991.py" target="_blank">bj1991.py</a>|😀|
-|004|<a href="https://www.acmicpc.net/problem/1068" target="_blank">트리</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj1068.py" target="_blank">bj1068.py</a>|🫢|
+|004|<a href="https://www.acmicpc.net/problem/9934" target="_blank">완전 이진 트리</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj9934.py" target="_blank">bj9934.py</a>|😀|
+|005|<a href="https://www.acmicpc.net/problem/1068" target="_blank">트리</a>|<a href="https://github.com/StudyPS/pjt/blob/main/tree/bj1068.py" target="_blank">bj1068.py</a>|🫢|
 </details>
 
 ### 자료구조 2
